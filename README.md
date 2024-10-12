@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Joshua Pirwoth
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics through a bootcamp by Alex the Analyst
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Joshua
+- 👀 I’m into Data Analytics
+- 🌱 I’ve been learning the required skills over the past couple of months, and still learning, as well as building projects
+- 💞️ I’m looking to collaborate on projects that are constructive and drive insightful decision-making in the real world 
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
